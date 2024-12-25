@@ -1,0 +1,24 @@
+* {
+    background-color: antiquewhite;
+}
+#main {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 1rem;
+}
+button {
+    padding: 10px 15px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: black;
+}
+button:hover {
+    background-color: #DEB887;
+}
+button:active {
+    background-color: #F4A460;
+}
+#ans{
+    text-align: center;
+    padding: 15px;
+}
